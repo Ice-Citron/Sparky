@@ -1,0 +1,40 @@
+﻿  game.cpp
+C:\Users\ACER\source\Libraries\FreeImage\include\FreeImage.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+C:\Users\ACER\source\repos\Sparky\Sparky-core\src\graphics\renderable2d.h(52,10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\ACER\source\repos\Sparky\Sparky-core\src\graphics\renderable2d.h(53,10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\ACER\source\repos\Sparky\Sparky-core\src\graphics\renderable2d.h(54,10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\ACER\source\repos\Sparky\Sparky-core\src\graphics\renderable2d.h(55,10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  sound.cpp
+  sound_manager.cpp
+  batch2drenderer.cpp
+C:\Users\ACER\source\Libraries\FreeImage\include\FreeImage.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+C:\Users\ACER\source\repos\Sparky\Sparky-core\src\graphics\renderable2d.h(52,10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\ACER\source\repos\Sparky\Sparky-core\src\graphics\renderable2d.h(53,10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\ACER\source\repos\Sparky\Sparky-core\src\graphics\renderable2d.h(54,10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\ACER\source\repos\Sparky\Sparky-core\src\graphics\renderable2d.h(55,10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  layer.cpp
+C:\Users\ACER\source\Libraries\FreeImage\include\FreeImage.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+C:\Users\ACER\source\repos\Sparky\Sparky-core\src\graphics\renderable2d.h(52,10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\ACER\source\repos\Sparky\Sparky-core\src\graphics\renderable2d.h(53,10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\ACER\source\repos\Sparky\Sparky-core\src\graphics\renderable2d.h(54,10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\ACER\source\repos\Sparky\Sparky-core\src\graphics\renderable2d.h(55,10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  texture.cpp
+C:\Users\ACER\source\Libraries\FreeImage\include\FreeImage.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+C:\Users\ACER\source\repos\Sparky\Sparky-core\src\graphics\texture.cpp(17,13): warning C4101: 'dib': unreferenced local variable
+  window.cpp
+C:\Users\ACER\source\repos\Sparky\Sparky-core\src\graphics\window.cpp(74,20): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  tilelayer.cpp
+C:\Users\ACER\source\Libraries\FreeImage\include\FreeImage.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+C:\Users\ACER\source\repos\Sparky\Sparky-core\src\graphics\renderable2d.h(52,10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\ACER\source\repos\Sparky\Sparky-core\src\graphics\renderable2d.h(53,10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\ACER\source\repos\Sparky\Sparky-core\src\graphics\renderable2d.h(54,10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\ACER\source\repos\Sparky\Sparky-core\src\graphics\renderable2d.h(55,10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/LTCG' specification
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  10 of 2292 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    25 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+glew32s.lib(glew.obj) : warning LNK4099: PDB '' was not found with 'glew32s.lib(glew.obj)' or at ''; linking object as if no debug info
+  Sparky-core.vcxproj -> C:\Users\ACER\source\repos\Sparky\bin\Release\Sparky-core.exe

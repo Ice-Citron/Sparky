@@ -1,0 +1,48 @@
+﻿  analysis.c
+C:\Users\ACER\source\repos\Sparky\Dependencies\libvorbis\lib\analysis.c(21,10): fatal  error C1083: Cannot open include file: 'ogg/ogg.h': No such file or directory
+  bitrate.c
+C:\Users\ACER\source\repos\Sparky\Dependencies\libvorbis\lib\bitrate.c(21,10): fatal  error C1083: Cannot open include file: 'ogg/ogg.h': No such file or directory
+  block.c
+C:\Users\ACER\source\repos\Sparky\Dependencies\libvorbis\lib\block.c(24,10): fatal  error C1083: Cannot open include file: 'ogg/ogg.h': No such file or directory
+  codebook.c
+C:\Users\ACER\source\repos\Sparky\Dependencies\libvorbis\lib\codebook.c(21,10): fatal  error C1083: Cannot open include file: 'ogg/ogg.h': No such file or directory
+  envelope.c
+C:\Users\ACER\source\repos\Sparky\Dependencies\libvorbis\lib\envelope.c(22,10): fatal  error C1083: Cannot open include file: 'ogg/ogg.h': No such file or directory
+  floor0.c
+C:\Users\ACER\source\repos\Sparky\Dependencies\libvorbis\lib\floor0.c(21,10): fatal  error C1083: Cannot open include file: 'ogg/ogg.h': No such file or directory
+  floor1.c
+C:\Users\ACER\source\repos\Sparky\Dependencies\libvorbis\lib\floor1.c(21,10): fatal  error C1083: Cannot open include file: 'ogg/ogg.h': No such file or directory
+  info.c
+C:\Users\ACER\source\repos\Sparky\Dependencies\libvorbis\lib\info.c(24,10): fatal  error C1083: Cannot open include file: 'ogg/ogg.h': No such file or directory
+  lookup.c
+C:\Users\ACER\source\repos\Sparky\Dependencies\libvorbis\lib\os.h(25,10): fatal  error C1083: Cannot open include file: 'ogg/os_types.h': No such file or directory
+  lpc.c
+C:\Users\ACER\source\repos\Sparky\Dependencies\libvorbis\lib\os.h(25,10): fatal  error C1083: Cannot open include file: 'ogg/os_types.h': No such file or directory
+  lsp.c
+C:\Users\ACER\source\repos\Sparky\Dependencies\libvorbis\lib\os.h(25,10): fatal  error C1083: Cannot open include file: 'ogg/os_types.h': No such file or directory
+  mapping0.c
+C:\Users\ACER\source\repos\Sparky\Dependencies\libvorbis\lib\mapping0.c(22,10): fatal  error C1083: Cannot open include file: 'ogg/ogg.h': No such file or directory
+  mdct.c
+C:\Users\ACER\source\repos\Sparky\Dependencies\libvorbis\lib\mdct.c(44,10): fatal  error C1083: Cannot open include file: 'vorbis/codec.h': No such file or directory
+  psy.c
+C:\Users\ACER\source\repos\Sparky\Dependencies\libvorbis\lib\psy.c(21,10): fatal  error C1083: Cannot open include file: 'vorbis/codec.h': No such file or directory
+  registry.c
+C:\Users\ACER\source\repos\Sparky\Dependencies\libvorbis\lib\registry.c(18,10): fatal  error C1083: Cannot open include file: 'vorbis/codec.h': No such file or directory
+  res0.c
+C:\Users\ACER\source\repos\Sparky\Dependencies\libvorbis\lib\res0.c(26,10): fatal  error C1083: Cannot open include file: 'ogg/ogg.h': No such file or directory
+  sharedbook.c
+C:\Users\ACER\source\repos\Sparky\Dependencies\libvorbis\lib\sharedbook.c(21,10): fatal  error C1083: Cannot open include file: 'ogg/ogg.h': No such file or directory
+  smallft.c
+C:\Users\ACER\source\repos\Sparky\Dependencies\libvorbis\lib\smallft.h(21,10): fatal  error C1083: Cannot open include file: 'vorbis/codec.h': No such file or directory
+  synthesis.c
+C:\Users\ACER\source\repos\Sparky\Dependencies\libvorbis\lib\synthesis.c(19,10): fatal  error C1083: Cannot open include file: 'ogg/ogg.h': No such file or directory
+  tone.c
+  Generating Code...
+  Compiling...
+  vorbisenc.c
+C:\Users\ACER\source\repos\Sparky\Dependencies\libvorbis\lib\vorbisenc.c(22,10): fatal  error C1083: Cannot open include file: 'vorbis/codec.h': No such file or directory
+  vorbisfile.c
+C:\Users\ACER\source\repos\Sparky\Dependencies\libvorbis\lib\vorbisfile.c(24,10): fatal  error C1083: Cannot open include file: 'vorbis/codec.h': No such file or directory
+  window.c
+C:\Users\ACER\source\repos\Sparky\Dependencies\libvorbis\lib\os.h(25,10): fatal  error C1083: Cannot open include file: 'ogg/os_types.h': No such file or directory
+  Generating Code...

@@ -1,0 +1,25 @@
+﻿  analysis.c
+  bitrate.c
+  block.c
+  envelope.c
+  floor0.c
+  floor1.c
+  info.c
+  lookup.c
+  lpc.c
+  lsp.c
+  mapping0.c
+  mdct.c
+  psy.c
+  registry.c
+  res0.c
+  smallft.c
+  synthesis.c
+  tone.c
+  vorbisenc.c
+  vorbisfile.c
+  Generating Code...
+  Compiling...
+  window.c
+  Generating Code...
+  libvorbis.vcxproj -> C:\Users\ACER\source\repos\Sparky\x64\Debug\libvorbis.lib
