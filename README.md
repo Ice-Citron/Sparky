@@ -1,27 +1,23 @@
 # Sparky
 
-This was my first substantial programming project, built in summer 2023
-after my IGCSEs. I wrote the engine code by hand as I worked through
-The Cherno's Sparky series.
+This was my first substantial end-to-end programming project, built in summer 2023 after my IGCSEs. I wrote the game engine code entirely by hand (without AI because AI didn't existed then, shocker, I know) as I worked through The Cherno's Sparky series.
 
-I did not use Git during the original development. I uploaded the
-existing codebase later, so the commit history does not show the full
-development process.
+I did not use Git during the original development, which I uploaded this
+ codebase afterwards, so, unfortunately the commit history does not show the full development process.
 
 [![Watch the Sparky demonstration][thumbnail]][demo]
 
 [Watch the engine demonstration on YouTube][demo]
 
+*The video shows simple game built with the game engine, where a face-emoji 2D sprite is controllable using arrow-keys, and the mouse cursor is the light source.*
+
 ## Overview
 
-Sparky is a 2D game engine in C++ and OpenGL. The project covers the
-systems that connect an application to its graphics and audio output.
+Sparky is a 2D game engine written in C++ and OpenGL. The project covers the systems that connect an application to its graphics and audio output.
 
-The work extends from individual vector operations to a reusable
-application interface. The example game uses that interface to control
-sprites and display a frame-rate label.
+The work extends from custom-written individual vector operations to a reusable application interface. The example game demonstrated in recorded video uses that interface to control sprites and display a frame-rate label.
 
-The engine includes:
+The gane engine includes:
 
 - **Application framework.** Separate methods for initialisation,
   game updates, frame rendering, and periodic tasks. The loop also
@@ -46,7 +42,7 @@ The engine includes:
 - **Browser build work.** An Emscripten build script, browser-specific
   code paths, and separate OpenGL ES shader assets.
 
-The engine design follows [The Cherno's Sparky project][upstream].
+The game engine design follows [The Cherno's Sparky project][upstream].
 This repository records my implementation and study of that design,
 alongside the third-party libraries it uses.
 
