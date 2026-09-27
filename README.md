@@ -1,4 +1,4 @@
-# Sparky
+# Sparky: 2D C++/OpenGL Game Engine
 
 This was my first substantial end-to-end programming project, built in summer 2023 after my IGCSEs. I wrote the game engine code entirely by hand (without AI because AI didn't existed then, shocker, I know) as I worked through The Cherno's Sparky series.
 
