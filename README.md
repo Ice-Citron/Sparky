@@ -7,9 +7,9 @@ I did not use Git during the original development, which I uploaded this
 
 [![Watch the Sparky demonstration][thumbnail]][demo]
 
-[Watch the engine demonstration on YouTube][demo]
+[Watch the game engine demonstration on YouTube][demo]
 
-*The video shows simple game built with the game engine, where a face-emoji 2D sprite is controllable using arrow-keys, and the mouse cursor is the light source.*
+> This video shows a simple game built with the game engine, where a face-emoji 2D sprite is controllable using arrow-keys, and the mouse cursor is the light source.
 
 ## Overview
 
